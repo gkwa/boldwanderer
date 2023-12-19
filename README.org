@@ -1,0 +1,15 @@
+* boldwanderer
+
+** summary
+
+Learn how to make use of ssh-agent with go.
+
+** usage
+
+Example:
+#+begin_example
+make
+./boldwanderer --help
+./boldwanderer --log-level=debug
+make && ./boldwanderer --log-level=debug username@hostname:port
+#+end_example
