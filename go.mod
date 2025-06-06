@@ -2,7 +2,7 @@ module github.com/taylormonacelli/boldwanderer
 
 go 1.23.0
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require (
 	github.com/taylormonacelli/littlecow v0.0.5
